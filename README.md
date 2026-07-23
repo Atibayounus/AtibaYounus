@@ -1,18 +1,89 @@
-<h1 align="center">Hi 👋, I'm Atiba Dar</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **frontend development**
+# Hi 👋, I'm Atiba Dar
 
-- 📫 How to reach me **atiba.dar12345@gmail.com**
+### 💻 Computer Science Student | 🌐 Front-End Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atiba dar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiba dar" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Front-End+Developer;Learning+Every+Day;Building+Awesome+Projects!" />
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="450"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Passionate Front-End Developer
+- 🚀 Always learning new technologies
+- 🌱 Currently improving my JavaScript and Web Development skills
+- ⚡ I enjoy creating clean, responsive, and modern websites.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/atiba-dar-b99371395">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atibayounus&show_icons=true&locale=en" alt="atibayounus" /></p>
+## 💻 Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atibayounus&" alt="atibayounus" /></p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,vscode,git,github" />
+
+</p>
+
+---
+
+## 🚀 Skills
+
+<p align="center">
+
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AtibaYounus&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ "Code. Learn. Create. Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=AtibaYounus&style=for-the-badge&color=blue"/>
+
+</div>
