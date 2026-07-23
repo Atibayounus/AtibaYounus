@@ -1,14 +1,15 @@
+
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Atiba Dar**
 
 ### 💻 Computer Science Student • 🌐 Front-End Developer • 🚀 Future Software Engineer
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/anime.gif" width="650"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Front-End+Developer;HTML+CSS+JavaScript;C+%7C+C%2B%2B;Always+Learning+New+Things" />
 
 <br>
 
-<img src="https://i.imgur.com/8Km9tLL.gif" width="650"/>
+<img src="https://media.tenor.com/0CpF9QqO6oAAAAAC/anime-computer.gif" width="650"/>
 
 <br><br>
 
