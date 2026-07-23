@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Student • 🌐 Front-End Developer • 🚀 Future Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Front-End+Developer;HTML+CSS+JavaScript;C+%7C+C%2B%2B;Always+Learning+New+Things" />
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/anime.gif" width="650"/>
 
 <br>
 
