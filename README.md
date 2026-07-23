@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Front-End+Developer;Learning+Every+Day;Building+Awesome+Projects!" />
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="450"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif" width="450"/>
 
 </div>
 
