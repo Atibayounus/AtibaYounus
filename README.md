@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&background=0D0221FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Atiba+Dar+%F0%9F%91%8B;CS+Student+%7C+Frontend+Developer;Turning+%3C%2Fcode%3E+into+%3Cmagic%2F%3E" alt="Typing SVG" />
 </h1>
@@ -13,7 +12,7 @@
 
 ---
 
-### `> who am i`
+### `> whoami`
 
 ```yaml
 name: Atiba Dar
@@ -62,7 +61,9 @@ status: shipping small projects, one bug at a time 🐞
 </p>
 
 
+
 ---
+
 
 <p align="center">
   <i>⚡ "Code is the closest thing we have to magic." ⚡</i>
@@ -70,3 +71,4 @@ status: shipping small projects, one bug at a time 🐞
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=100&section=footer" width="100%">
 </p>
+
