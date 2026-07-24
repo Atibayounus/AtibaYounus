@@ -12,10 +12,10 @@
 
 ---
 
-
+### `> who am i`
 
 ```yaml
-Name: Atiba Dar
+name: Atiba Dar
 role: Computer Science Student & Frontend Developer
 university: University of Gujrat, Pakistan
 focus: Building clean, functional, and visually engaging web experiences
@@ -25,34 +25,32 @@ status: shipping small projects, one bug at a time 🐞
 
 ---
 
-
+### `> connect --with-me`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D0221" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/AtibaYounus">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FF00E5&labelColor=0D0221" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
-n`
+
+### `> tech_stack`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00F0FF?style=for-the-badge&logo=c&logoColor=0D0221&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/C++-FF00E5?style=for-the-badge&logo=cplusplus&logoColor=0D0221&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/HTML5-00F0FF?style=for-the-badge&logo=html5&logoColor=0D0221&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/CSS3-FF00E5?style=for-the-badge&logo=css3&logoColor=0D0221&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=0D0221&labelColor=0D0221" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" />
 </p>
 
 ---
 
+### `> github_stats`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtibaYounus&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AtibaYounus&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="48%" />
 </p>
 
 <p align="center">
@@ -61,7 +59,7 @@ n`
 
 ---
 
-
+### `> contribution_snake.gif`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -78,3 +76,7 @@ n`
 <p align="center">
   <i>⚡ "Code is the closest thing we have to magic." ⚡</i>
 </p>
+
+
+
+
