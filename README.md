@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="400">
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 ---
 
-### `> whoami`
+
 
 ```yaml
-name: Atiba Dar
+Name: Atiba Dar
 role: Computer Science Student & Frontend Developer
 university: University of Gujrat, Pakistan
 focus: Building clean, functional, and visually engaging web experiences
@@ -25,7 +25,7 @@ status: shipping small projects, one bug at a time 🐞
 
 ---
 
-### `> connect --with-me`
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
@@ -37,8 +37,7 @@ status: shipping small projects, one bug at a time 🐞
 </p>
 
 ---
-
-### `> tech_stack.json`
+n`
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00F0FF?style=for-the-badge&logo=c&logoColor=0D0221&labelColor=0D0221" />
@@ -50,7 +49,6 @@ status: shipping small projects, one bug at a time 🐞
 
 ---
 
-### `> github_stats.exe`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9" width="48%" />
@@ -63,7 +61,7 @@ status: shipping small projects, one bug at a time 🐞
 
 ---
 
-### `> contribution_snake.gif`
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
