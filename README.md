@@ -12,10 +12,10 @@
 
 ---
 
-### `> who am i`
+### `> whoami`
 
 ```yaml
-name: Atiba Dar
+Name: Atiba Dar
 role: Computer Science Student & Frontend Developer
 university: University of Gujrat, Pakistan
 focus: Building clean, functional, and visually engaging web experiences
@@ -25,7 +25,7 @@ status: shipping small projects, one bug at a time 🐞
 
 ---
 
-### `> connect --with-me`
+### `> connect with me`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
@@ -46,25 +46,19 @@ status: shipping small projects, one bug at a time 🐞
 
 ---
 
-### `> github_stats`
+### `> github_stats.exe`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=AtibaYounus&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=c9d1d9" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AtibaYounus&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="60%" />
 </p>
 
 ---
 
-### `> contribution_snake.gif`
+### `> contribution_snake`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 
 
 ---
@@ -76,7 +70,5 @@ status: shipping small projects, one bug at a time 🐞
 <p align="center">
   <i>⚡ "Code is the closest thing we have to magic." ⚡</i>
 </p>
-
-
 
 
