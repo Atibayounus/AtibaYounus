@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
 </p>
 
-## Hi I am Atiba ! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+I+am+Atiba+%F0%9F%91%8B;Computer+Science+Student;Frontend+Developer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700">
@@ -61,3 +63,4 @@ status: shipping small projects, one bug at a time 🐞
 <p align="center">
   <i>⚡ "Code is the closest thing we have to magic." ⚡</i>
 </p>
+
