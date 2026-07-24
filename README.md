@@ -8,7 +8,7 @@
 
 ---
 
-### `> whoami`
+### `> About me`
 
 ```yaml
 name: Atiba Dar
