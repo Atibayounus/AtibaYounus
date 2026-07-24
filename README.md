@@ -1,142 +1,82 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&background=0D0221FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Atiba+Dar+%F0%9F%91%8B;CS+Student+%7C+Frontend+Developer;Turning+%3C%2Fcode%3E+into+%3Cmagic%2F%3E" alt="Typing SVG" />
+</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400">
+</p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Atiba Dar**
-
-### 💻 Computer Science Student • 🌐 Front-End Developer • 🚀 Future Software Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Front-End+Developer;HTML+CSS+JavaScript;C+%7C+C%2B%2B;Always+Learning+New+Things" />
-
-<br>
-
-<img src="https://media.tenor.com/0CpF9QqO6oAAAAAC/anime-computer.gif" width="650"/>
-
-<br><br>
-
-![](https://github-profile-trophy.vercel.app/?username=AtibaYounus&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
+</p>
 
 ---
 
-# 👩‍💻 About Me
+### `> whoami`
 
-```javascript
-const atiba = {
-    name: "Atiba Dar",
-    education: "Computer Science Student",
-    role: "Front-End Developer",
-
-    languages: [
-        "C",
-        "C++",
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ],
-
-    currentlyLearning: [
-        "Advanced JavaScript",
-        "React",
-        "Modern Web Development"
-    ],
-
-    motto: "Code • Learn • Build • Repeat 🚀"
-};
+```yaml
+name: Atiba Dar
+role: Computer Science Student & Frontend Developer
+university: University of Gujrat, Pakistan
+focus: Building clean, functional, and visually engaging web experiences
+currently_learning: JavaScript (arrays, loops, DOM, debugging)
+status: shipping small projects, one bug at a time 🐞
 ```
 
 ---
 
-# 🌐 Connect With Me
+### `> connect --with-me`
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/atiba-dar-b99371395">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,vscode,git,github&theme=dark"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D0221" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AtibaYounus">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FF00E5&labelColor=0D0221" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-# 💻 Languages
+### `> tech_stack.json`
 
-<div align="center">
-
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00F0FF?style=for-the-badge&logo=c&logoColor=0D0221&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/C++-FF00E5?style=for-the-badge&logo=cplusplus&logoColor=0D0221&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/HTML5-00F0FF?style=for-the-badge&logo=html5&logoColor=0D0221&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/CSS3-FF00E5?style=for-the-badge&logo=css3&logoColor=0D0221&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=0D0221&labelColor=0D0221" />
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+### `> github_stats.exe`
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtibaYounus&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="48%" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AtibaYounus&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=c9d1d9" width="48%" />
+</p>
 
 ---
 
-# 📈 Contribution Graph
+### `> contribution_snake.gif`
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtibaYounus&theme=tokyo-night&hide_border=true"/>
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
-# 💡 Quote
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=100&section=footer" width="100%">
+</p>
 
-<div align="center">
-
-> **"First, solve the problem. Then, write the code."** 💙
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AtibaYounus&style=for-the-badge&color=00F7FF"/>
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:8A2BE2&section=footer"/>
-
-</div>
+<p align="center">
+  <i>⚡ "Code is the closest thing we have to magic." ⚡</i>
+</p>
