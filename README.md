@@ -7,15 +7,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700">
 </p>
----
+
  About me
 
-Name: Atiba Dar
-Role: Computer Science Student & Frontend Developer
-university: University of Gujrat, Pakistan
-focus: Building clean, functional, and visually engaging web experiences
-currently_learning: JavaScript (arrays, loops, DOM, debugging)
-status: shipping small projects, one bug at a time 🐞
+Name: Atiba Dar <br>
+Role: Computer Science Student & Frontend Developer <br>
+university: University of Gujrat, Pakistan <br>
+focus: Building clean, functional, and visually engaging web experiences <br>
+currently_learning: JavaScript (arrays, loops, DOM, debugging) <br>
+status: shipping small projects, one bug at a time 🐞 <br>
 
 ---
  connect with me
