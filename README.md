@@ -4,10 +4,10 @@
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700" alt="Atiba Dar Banner">
 </p><h3 align="left"><b>&gt; About Me</b></h3>name: Atiba Dar
 role: Computer Science Student & Frontend Developer
-university: University of Gujrat, Pakistan
-focus: Building clean, functional, and visually engaging web experiences
-currently_learning: JavaScript (arrays, loops, DOM, debugging)
-status: Shipping small projects, one bug at a time 🐞
+university: University of Gujrat, Pakistan<br>
+focus: Building clean, functional, and visually engaging web experiences<br>
+currently_learning: JavaScript (arrays, loops, DOM, debugging)<br>
+status: Shipping small projects, one bug at a time 🐞<br>
 
 <h3 align="left"><b>&gt; Connect With Me</b></h3><p align="center">
   <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
@@ -19,7 +19,7 @@ status: Shipping small projects, one bug at a time 🐞
   </a>
 </p><h3 align="left"><b>&gt; Tech Stack</b></h3><p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" alt="Tech Stack">
-</p><h3 align="left"><b>&gt; GitHub Stats</b></h3><p align="center">
+  
   <h3 align="left"><b>&gt; GitHub Stats</b></h3><p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtibaYounus&theme=tokyonight"
