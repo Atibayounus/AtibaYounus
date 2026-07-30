@@ -1,54 +1,41 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+I+am+Atiba+!+%F0%9F%91%8B;Computer+Science+Student;Frontend+Developer" alt="Typing SVG" />
-</p>
-<p align="center">
+</p><p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700">
-</p>
-
- About me
-
-Name: Atiba Dar <br>
-Role: Computer Science Student & Frontend Developer <br>
-university: University of Gujrat, Pakistan <br>
-focus: Building clean, functional, and visually engaging web experiences <br>
-currently_learning: JavaScript (arrays, loops, DOM, debugging) <br>
-status: shipping small projects, one bug at a time 🐞 <br>
-
----
- connect with me
+</p><p align="center">
+  <code>&gt; About Me</code>
+</p>name: Atiba Dar
+role: Computer Science Student & Frontend Developer
+university: University of Gujrat, Pakistan
+focus: Building clean, functional, and visually engaging web experiences
+currently_learning: JavaScript (arrays, loops, DOM, debugging)
+status: Shipping small projects, one bug at a time 🐞
 
 <p align="center">
+  <code>&gt; Connect With Me</code>
+</p><p align="center">
   <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="https://github.com/AtibaYounus">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
-
- tech stack
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" />
-
- github stats
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AtibaYounus&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="60%" />
-</p>
-
-contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
+</p><p align="center">
+  <code>&gt; Tech Stack</code>
+</p><p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" alt="Tech Stack">
+</p><p align="center">
+  <code>&gt; GitHub Stats</code>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AtibaYounous&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="60%" alt="GitHub Streak Stats">
+</p><p align="center">
+  <code>&gt; Contributions</code>
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=100&section=footer" width="100%">
-</p>
-<p align="center">
+</p><p align="center">
   <i>⚡ "Code is the closest thing we have to magic." ⚡</i>
 </p>
