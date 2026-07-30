@@ -20,11 +20,24 @@ status: Shipping small projects, one bug at a time 🐞
 </p><h3 align="left"><b>&gt; Tech Stack</b></h3><p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" alt="Tech Stack">
 </p><h3 align="left"><b>&gt; GitHub Stats</b></h3><p align="center">
+  <h3 align="left"><b>&gt; GitHub Stats</b></h3><p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=FFFFFF"
-    width="60%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtibaYounus&theme=tokyonight"
+    width="95%"
+    alt="GitHub Profile Summary"
+  >
+</p><p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtibaYounus&theme=tokyonight"
+    width="48%"
     alt="GitHub Stats"
   >
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtibaYounus&theme=tokyonight"
+    width="48%"
+    alt="Most Used Languages"
+  >
+</p>
 </p><h3 align="left"><b>&gt; Contributions</b></h3><p align="center">
   <img
     src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg"
