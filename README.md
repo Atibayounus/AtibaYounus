@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
 </p><p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700" alt="Atiba Dar Banner">
 </p><p align="center">
   <code>&gt; About Me</code>
 </p>name: Atiba Dar
@@ -29,11 +29,11 @@ status: Shipping small projects, one bug at a time 🐞
 </p><p align="center">
   <code>&gt; GitHub Stats</code>
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AtibaYounous&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="60%" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=AtibaYounus&theme=tokyonight&hide_border=true&background=0D0221&stroke=00F0FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" width="60%" alt="GitHub Streak Stats">
 </p><p align="center">
   <code>&gt; Contributions</code>
 </p><p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=100&section=footer" width="100%">
 </p><p align="center">
