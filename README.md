@@ -34,12 +34,12 @@ status: Shipping small projects, one bug at a time 🐞<br>
 <h3 align="left"><b>&gt; GitHub Stats</b></h3>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=C3C3F5&ring_color=FF00E5"
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=C3C3F5&ring_color=FF00E5"
     width="48%"
     alt="GitHub Stats"
   >
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=C3C3F5&langs_count=8"
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=C3C3F5&langs_count=8"
     width="48%"
     alt="Most Used Languages"
   >
@@ -61,5 +61,4 @@ status: Shipping small projects, one bug at a time 🐞<br>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=100&section=footer" width="100%">
-</p>
+  <img src="https://capsule-render.vercel.app/a
