@@ -11,12 +11,14 @@
 
 <h3 align="left"><b>&gt; About Me</b></h3>
 
+<p align="center">
 Name: Atiba Dar<br>
 Role: Computer Science Student & Frontend Developer<br>
 University: University of Gujrat, Pakistan<br>
 Focus: Building clean, functional, and visually engaging web experiences<br>
-currently learning: JavaScript (arrays, loops, DOM, debugging)<br>
-status: Shipping small projects, one bug at a time 🐞<br>
+currently_learning: JavaScript (arrays, loops, DOM, debugging)<br>
+status: Shipping small projects, one bug at a time 🐞
+</p>
 
 <h3 align="left"><b>&gt; Connect With Me</b></h3>
 <p align="center">
