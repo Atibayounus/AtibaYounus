@@ -1,51 +1,20 @@
+<h3 align="left"><b>&gt; GitHub Stats</b></h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
-</p><p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700" alt="Atiba Dar Banner">
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
-</p><p align="center">
-</p><h3 align="left"><b>&gt; About Me</b></h3>Name: Atiba Dar<br>
-Role: Computer Science Student & Frontend Developer<br>
-University: University of Gujrat, Pakistan<br>
-Focus: Building clean, functional, and visually engaging web experiences<br>
-currently_learning: JavaScript (arrays, loops, DOM, debugging)<br>
-status: Shipping small projects, one bug at a time 🐞<br>
-
-<h3 align="left"><b>&gt; Connect With Me</b></h3><p align="center">
-  <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://github.com/AtibaYounus">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p><h3 align="left"><b>&gt; Tech Stack</b></h3><p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" alt="Tech Stack">
-  
-  <h3 align="left"><b>&gt; GitHub Stats</b></h3><p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtibaYounus&theme=tokyonight"
-    width="95%"
-    alt="GitHub Profile Summary"
-  >
-</p><p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtibaYounus&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=C3C3F5&ring_color=FF00E5"
     width="48%"
     alt="GitHub Stats"
   >
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtibaYounus&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=C3C3F5&langs_count=8"
     width="48%"
     alt="Most Used Languages"
   >
 </p>
-</p><h3 align="left"><b>&gt; Contributions</b></h3><p align="center">
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AtibaYounus&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C3C3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8888A6"
+    width="70%"
+    alt="GitHub Streak"
   >
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=100&section=footer" width="100%">
-</p><p align="center">
+</p>
