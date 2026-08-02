@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atiba+!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner-border.svg" width="700" alt="Atiba Dar Banner">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700" alt="Atiba Dar Banner" style="border: 4px solid #00F0FF; border-radius: 14px; box-shadow: 0 0 15px #FF00E5, 0 0 30px #00F0FF, 0 0 45px #FF00E5;">
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
