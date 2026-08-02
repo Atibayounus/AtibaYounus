@@ -1,20 +1,34 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atiba+!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700" alt="Atiba Dar Banner">
+  <table cellpadding="6" cellspacing="0">
+    <tr>
+      <td bgcolor="#FF00E5">
+        <table cellpadding="4" cellspacing="0">
+          <tr>
+            <td bgcolor="#00F0FF">
+              <table cellpadding="0" cellspacing="0">
+                <tr>
+                  <td bgcolor="#0D0221">
+                    <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700" alt="Atiba Dar Banner">
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
 </p>
-
 <h3 align="left"><b>&gt; About Me</b></h3>
-
 <p align="center">
  Atiba Dar<br>
  Computer Science Student & Frontend Developer<br>
@@ -22,7 +36,6 @@
  Building clean, functional, and visually engaging web experiences<br>
 status: Shipping small projects, one bug at a time 🐞
 </p>
-
 <h3 align="left"><b>&gt; Connect With Me</b></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
@@ -33,12 +46,10 @@ status: Shipping small projects, one bug at a time 🐞
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
 <h3 align="left"><b>&gt; Tech Stack</b></h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" alt="Tech Stack">
 </p>
-
 <h3 align="left"><b>&gt; GitHub Stats</b></h3>
 <p align="center">
   <img
@@ -59,7 +70,6 @@ status: Shipping small projects, one bug at a time 🐞
     alt="GitHub Streak"
   >
 </p>
-
 <h3 align="left"><b>&gt; Contributions</b></h3>
 <p align="center">
   <img
@@ -67,6 +77,6 @@ status: Shipping small projects, one bug at a time 🐞
     alt="GitHub Contribution Snake"
   >
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/a
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=120&section=footer" width="100%">
+</p>
