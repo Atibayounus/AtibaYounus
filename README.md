@@ -30,7 +30,7 @@ status: Shipping small projects, one bug at a time 🐞
 </p>
 <h3 align="left"><b>&gt; Tech Stack</b></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" alt="Tech Stack">
 </p>
 <h3 align="left"><b>&gt; GitHub Stats</b></h3>
 <p align="center">
@@ -47,7 +47,7 @@ status: Shipping small projects, one bug at a time 🐞
 </p>
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AtibaYounus&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C3C3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8888A6&v=2"
+    src="https://streak-stats.demolab.com/?user=AtibaYounus&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C3C3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8888A6"
     width="70%"
     alt="GitHub Streak"
   >
@@ -60,5 +60,4 @@ status: Shipping small projects, one bug at a time 🐞
   >
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=footer" width="100%">
-</p>
+  <img src="https://capsule-render.vercel.app/a     add node and express in tech stack
