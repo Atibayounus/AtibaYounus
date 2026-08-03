@@ -47,7 +47,7 @@ status: Shipping small projects, one bug at a time 🐞
 </p>
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AtibaYounus&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C3C3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8888A6"
+    src="https://streak-stats.demolab.com/?user=AtibaYounus&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C3C3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8888A6&v=2"
     width="70%"
     alt="GitHub Streak"
   >
