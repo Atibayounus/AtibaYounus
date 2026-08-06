@@ -1,41 +1,39 @@
 <div align="center">
 
-  <!-- Cyberpunk Banner / Header GIF -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8412-db371232614d.gif" width="100%" alt="Cyberpunk Header Banner"/>
+█████╗ ████████╗██╗██████╗ ██╗  ██╗██████╗  ██████╗  ██████╗████████╗███╗   ██╗
+██╔══██╗╚══██╔══╝██║██╔══██╗██║  ██║██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝████╗  ██║
+███████║   ██║   ██║██████╔╝███████║██████╔╝██║   ██║██║        ██║   ██╔██╗ ██║
+██╔══██║   ██║   ██║██╔══██╗██╔══██║██╔═══╝ ██║   ██║██║        ██║   ██║╚██╗██║
+██║  ██║   ██║   ██║██████╔╝██║  ██║██║     ╚██████╔╝╚██████╗   ██║   ██║ ╚████║
+╚═╝  ╚═╝   ╚═╝   ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝      ╚═════╝  ╚═════╝   ╚═╝   ╚═╝  ╚═══╝
 
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=SYSTEM.INIT();+ATIBA_YOUNUS;ASPIRING+FULL+STACK+DEV;BUILDING+THE+FUTURE..." alt="Typing SVG" />
-  </h1>
 
-  <p align="center">
-    <b><code>[ LOC: CYBERSPACE ]</code></b> &nbsp;|&nbsp; 
-    <b><code>[ STATUS: CODING ]</code></b> &nbsp;|&nbsp; 
-    <b><code>[ ROLE: FULL STACK ARCHITECT ]</code></b>
+  <!-- Live Typing Terminal Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=%3E_INITIALIZING_NEURAL_LINK...;%3E_ATIBA_YOUNUS_%3A%2F%2FFULL_STACK_ENGINEER;%3E_BUILDING_SCALABLE_WEB_SYSTEMS...;%3E_STATUS%3A_SYSTEM_ONLINE" alt="Terminal Text" />
+  </a>
+
+  <p>
+    <code><b>[ HOST: CYBERSPACE ]</b></code> &nbsp;&bull;&nbsp; 
+    <code><b>[ ACCESS: GRANTED ]</b></code> &nbsp;&bull;&nbsp; 
+    <code><b>[ SEC_LEVEL: MAXIMUM ]</b></code>
   </p>
 
-  <!-- Animated Glowing Badges -->
-  <p align="center">
-    <a href="https://github.com/your-username">
-      <img src="https://img.shields.io/badge/CYBER_PROFILE-ONLINE-00F0FF?style=for-the-badge&logo=gnu-badger&logoColor=black" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/NET_LINK-CONNECT-FF0055?style=for-the-badge&logo=fastly&logoColor=white" />
-    </a>
-  </p>
-  
-  <img src="https://i.imgur.com/d2udWXP.gif" width="100%" height="3px" />
 </div>
 
-<br>
+---
 
-## ⚡ // SYSTEM_OVERVIEW
+### 💻 `cat ./system_specs.json`
 
-```javascript
-const developer = {
-    name: "Atiba",
-    type: "Aspiring Full Stack Engineer",
-    codebase: ["JavaScript", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    mission: "Architecting high-performance web experiences in the digital grid."
-};
+```json
+{
+  "developer": "Atiba",
+  "archetype": "Full-Stack Software Engineer",
+  "location": "Cyberspace",
+  "protocols": {
+    "frontend": ["HTML5", "CSS3", "JavaScript (ES6+)"],
+    "backend": ["Node.js", "Express.js"],
+    "database": ["MongoDB"]
+  },
+  "status": "Ready for deployment"
+}
