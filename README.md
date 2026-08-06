@@ -62,5 +62,5 @@ status: Shipping small projects, one bug at a time 🐞
 <p align="center">
   <img src="https://capsule-render.vercel.app/a     
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=footer" width="100%">
 </p>
