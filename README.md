@@ -1,23 +1,29 @@
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
 </p>
+
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atiba+!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atiba+Dar!+%F0%9F%91%8B;Full+Stack+Developer+%7C+CS+Student;Building+clean+%26+visually+engaging+web+apps" alt="Typing SVG" />
 </p>
+
+<!-- PROFILE BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700" alt="Atiba Dar Banner">
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=footer" width="100%">
-</p>
+
+<!-- ABOUT ME SECTION -->
 <h3 align="left"><b>&gt; About Me</b></h3>
 <p align="center">
- Atiba Dar<br>
- Computer Science Student & Frontend Developer<br>
- University of Gujrat, Pakistan<br>
- Building clean, functional, and visually engaging web experiences<br>
-status: Shipping small projects, one bug at a time 🐞
+  <b>Atiba Dar</b><br>
+  Computer Science Student & Full Stack Developer<br>
+  University of Gujrat, Pakistan 🎓<br>
+  Building clean, functional, and visually engaging web experiences ✨<br>
+  <i>Status: Shipping projects, one bug at a time 🐞</i>
 </p>
+
+<!-- CONNECT WITH ME SECTION -->
 <h3 align="left"><b>&gt; Connect With Me</b></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/atiba-dar-b99371395">
@@ -27,11 +33,19 @@ status: Shipping small projects, one bug at a time 🐞
   <a href="https://github.com/AtibaYounus">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  &nbsp;
+  <a href="mailto:atiba.dar12345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
-<h3 align="left"><b>&gt; Tech Stack</b></h3>
+
+<!-- TECH STACK SECTION -->
+<h3 align="left"><b>&gt; Tech Stack & Tools</b></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,git,github,vercel,netlify&theme=dark" alt="Tech Stack">
 </p>
+
+<!-- GITHUB STATS SECTION -->
 <h3 align="left"><b>&gt; GitHub Stats</b></h3>
 <p align="center">
   <img
@@ -45,6 +59,7 @@ status: Shipping small projects, one bug at a time 🐞
     alt="Most Used Languages"
   >
 </p>
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=AtibaYounus&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C3C3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8888A6"
@@ -52,6 +67,8 @@ status: Shipping small projects, one bug at a time 🐞
     alt="GitHub Streak"
   >
 </p>
+
+<!-- CONTRIBUTIONS SECTION -->
 <h3 align="left"><b>&gt; Contributions</b></h3>
 <p align="center">
   <img
@@ -59,8 +76,8 @@ status: Shipping small projects, one bug at a time 🐞
     alt="GitHub Contribution Snake"
   >
 </p>
+
+<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/a     
-  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=footer" width="100%">
 </p>
