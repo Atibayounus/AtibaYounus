@@ -15,11 +15,15 @@
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/banner.jpeg" width="700" alt="Atiba Dar Banner">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=footer" width="100%">
+</p>
+
 <!-- ABOUT ME SECTION -->
 <h3 align="left"><b>&gt; About Me</b></h3>
 <p align="center">
   <b>Atiba Dar</b><br>
-  Computer Science Student & Full Stack Developer<br>
+  Computer Science Student & Aspiring Full Stack Developer<br>
   University of Gujrat, Pakistan 🎓<br>
   Building clean, functional, and visually engaging web experiences ✨<br>
   <i>Status: Shipping projects, one bug at a time 🐞</i>
