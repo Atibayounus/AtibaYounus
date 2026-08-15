@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00F0FF,100:FFE500&height=120&section=header" width="100%">
 </p>
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -8,10 +8,7 @@
 </p>
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/gif.gif" width="700" alt="Atiba Dar Banner">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00F0FF,100:FFE500&height=120&section=footer" width="100%">
 </p>
 <!-- ABOUT ME SECTION -->
 <h3 align="left"><b>&gt; About Me</b></h3>
@@ -73,5 +70,5 @@
 </p>
 <!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00F0FF,100:FFE500&height=120&section=footer" width="100%">
 </p>
