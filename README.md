@@ -5,7 +5,9 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atiba+Dar!+%F0%9F%91%8B;Full+Stack+Developer+%7C+CS+Student;Building+clean+%26+visually+engaging+web+apps" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atiba+!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+
 </p>
 
 <!-- PROFILE BANNER -->
