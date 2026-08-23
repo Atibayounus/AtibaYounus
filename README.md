@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/space-shooter.gif" alt="GitHub Space Shooter" >
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" >
 </p>
 
 <p align="center">
