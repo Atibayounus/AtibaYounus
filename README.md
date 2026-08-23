@@ -60,12 +60,32 @@
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="45" align="center"> <b>GitHub Stats</b></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3&ring_color=FFFFFF" width="48%" alt="GitHub Stats" >
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" width="48%" alt="GitHub Stats" >
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C3C3C3&langs_count=8" width="48%" alt="Most Used Languages" >
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
+<!-- CONTRIBUTIONS SECTION -->
+<h3 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="45" align="center"> <b>Contributions</b></h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtibaYounus&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="GitHub Contribution Graph" width="100%" >
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" >
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:FFFFFF&height=120&section=footer" width="100%">
 </p>
 
 <!-- CONTRIBUTIONS SECTION -->
