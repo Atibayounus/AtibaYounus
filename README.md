@@ -45,11 +45,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+
 <!-- TECH STACK SECTION -->
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" align="center"> <b>Tech Stack & Tools</b></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,git,github,vercel,netlify&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,c,cpp,git,github,vercel,netlify&theme=dark" alt="Tech Stack">
 </p>
 
 <p align="center">
@@ -78,8 +79,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
-
-
 
 <!-- FOOTER BANNER -->
 <p align="center">
