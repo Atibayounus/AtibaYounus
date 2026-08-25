@@ -69,11 +69,7 @@
 </p>
 
 <!-- CONTRIBUTIONS SECTION -->
-<h3 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="45" align="center"> <b>Contributions</b></h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtibaYounus&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="GitHub Contribution Graph" width="100%" >
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" >
