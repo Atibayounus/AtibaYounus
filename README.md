@@ -69,7 +69,7 @@
 </p>
 
 <!-- CONTRIBUTIONS SECTION -->
-
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" align="center"> <b>Contribution Graph</b></h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" >
