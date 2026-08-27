@@ -23,7 +23,7 @@
 <!-- ABOUT ME SECTION -->
 
 <h3 align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="30" align="absmiddle">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="50" align="absmiddle">
   <b>About Me</b>
 </h3>
 
@@ -42,7 +42,7 @@
 <!-- CONNECT WITH ME SECTION -->
 
 <h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" align="absmiddle">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" align="absmiddle">
   <b>Connect With Me</b>
 </h3>
 
@@ -60,7 +60,7 @@
 <!-- TECH STACK SECTION -->
 
 <h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" align="absmiddle">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" align="absmiddle">
   <b>Tech Stack & Tools</b>
 </h3>
 
@@ -77,7 +77,7 @@
 <!-- GITHUB STATS SECTION -->
 
 <h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30" align="absmiddle">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="50" align="absmiddle">
   <b>GitHub Stats</b>
 </h3>
 
@@ -93,7 +93,7 @@
 <!-- CONTRIBUTIONS SECTION -->
 
 <h3 align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="30" align="absmiddle">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="50" align="absmiddle">
   <b>Contribution Graph</b>
 </h3>
 
