@@ -25,16 +25,9 @@
 <h3 align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="50" align="absmiddle">
   <b>About Me</b>
-</h3>
-
 <p align="center">
-  <b>Atiba Dar</b><br>
-  Computer Science Student & Aspiring Full Stack Developer<br>
-  University of Gujrat, Pakistan 🎓<br>
-  Building clean, functional, and visually engaging web experiences ✨<br>
-  <i>Status: Shipping projects, one bug at a time 🐞</i>
+  <img src="terminal.gif" alt="Terminal GIF" width="500">
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
