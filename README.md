@@ -90,15 +90,31 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- CONTRIBUTIONS SECTION -->
+<!-- GITHUB STREAK SECTION -->
 
 <h3 align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="50" align="absmiddle">
-  <b>Contribution Graph</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" align="absmiddle">
+  <b>GitHub Streak</b>
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/profile/streak.svg" alt="GitHub Streak Stats" width="70%">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
+
+<!-- SPACE SHOOTER SECTION -->
+
+<h3 align="left">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="40" align="absmiddle">
+  <b>Contribution shooter</b>
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/space-shooter.gif" alt="Space Shooter Game" width="80%">
 </p>
 
 <p align="center">
