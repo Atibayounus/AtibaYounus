@@ -83,20 +83,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- GITHUB STREAK SECTION -->
-
-<h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" align="absmiddle">
-  <b>GitHub Streak</b>
-</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/profile/streak.svg" alt="GitHub Streak Stats" width="70%">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
 
 
 <!-- SPACE SHOOTER SECTION -->
