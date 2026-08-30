@@ -1,10 +1,10 @@
-<!-- HEADER BANNER -->
+<!-- HEADERS BANNER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:FFFFFF&height=120&section=header" width="100%">
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATIONS -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C3C3C3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atiba+!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 <!-- PROFILE BANNER -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/donut.gif" width="700" alt="Atiba Dar Banner">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/donut.gif" width="700" alt="Atiba Dar's Banner">
 </p>
 
 <p align="center">
