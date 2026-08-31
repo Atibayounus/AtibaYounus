@@ -88,7 +88,7 @@
 
 <!-- GITHUB TROPHIES SECTION -->
 <h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="40" align="absmiddle">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="50" align="absmiddle">
   <b>GitHub Trophies</b>
 </h3>
 
@@ -99,8 +99,20 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+<!-- RANDOM DEV QUOTE -->
+<h3 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="50" align="absmiddle">
+  <b>Dev Quote</b>
+</h3>
 
-<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&backgroundColor=000000&quoteColor=FFFFFF&authorColor=C3C3C3" alt="Dev Quote" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+<!--FOOTER BANNER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:FFFFFF&height=120&section=footer" width="100%">
