@@ -77,6 +77,14 @@
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" width="45%" alt="GitHub Stats">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C3C3C3&langs_count=8" width="35%" alt="Most Used Languages">
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+<!-- GITHUB STREAK SECTION -->
+<h3 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="46" height="25" align="absmiddle">
+  <b>GitHub Streak</b>
+</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AtibaYounus&background=000000&border=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C3C3C3&currStreakLabel=FFFFFF&sideLabels=C3C3C3&dates=888888&hide_border=true" width="65%" alt="GitHub Streak">
@@ -85,7 +93,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
-
 <!-- GITHUB TROPHIES SECTION -->
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="50" align="absmiddle">
