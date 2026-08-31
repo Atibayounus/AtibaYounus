@@ -17,7 +17,19 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+<!-- GITHUB TROPHIES SECTION -->
+<h3 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="50" align="absmiddle">
+  <b>GitHub Trophies</b>
+</h3>
 
+<p align="center">
+  <img src="https://github-trophy.vercel.app/?username=AtibaYounus&theme=matrix&row=1&column=6" alt="GitHub Trophies">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
 <!-- ABOUT ME SECTION -->
 
 <h3 align="left">
@@ -93,19 +105,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
-<!-- GITHUB TROPHIES SECTION -->
-<h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="50" align="absmiddle">
-  <b>GitHub Trophies</b>
-</h3>
 
-<p align="center">
-  <img src="https://github-trophy.vercel.app/?username=AtibaYounus&theme=matrix&row=1&column=6" alt="GitHub Trophies">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
 <!-- RANDOM DEV QUOTE -->
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="50" align="absmiddle">
