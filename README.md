@@ -67,14 +67,20 @@
 
 <!-- GITHUB STATS SECTION -->
 
+<!-- GITHUB STATS SECTION -->
+
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="50" align="absmiddle">
   <b>GitHub Stats</b>
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C3C3C3&langs_count=8" width="48%" alt="Most Used Languages">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" width="45%" alt="GitHub Stats">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C3C3C3&langs_count=8" width="35%" alt="Most Used Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AtibaYounus&background=000000&border=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C3C3C3&currStreakLabel=FFFFFF&sideLabels=C3C3C3&dates=888888&hide_border=true" width="65%" alt="GitHub Streak">
 </p>
 
 <p align="center">
