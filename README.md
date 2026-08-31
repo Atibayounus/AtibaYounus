@@ -65,7 +65,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- GITHUB STATS SECTION -->
 
 <!-- GITHUB STATS SECTION -->
 
@@ -117,6 +116,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
+<!-- RANDOM DEV QUOTE -->
+<h3 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif"width="50" align="absmiddle">
+  <b>Dev Quote</b>
+</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
 <!-- FOOTER BANNER -->
 
 <p align="center">
