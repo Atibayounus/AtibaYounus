@@ -1,5 +1,3 @@
-<!-- HEADERS BANNER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:FFFFFF&height=120&section=header" width="100%">
 </p>
@@ -83,10 +81,23 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
+<!-- GITHUB TROPHIES SECTION -->
 
+<h3 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" align="absmiddle">
+  <b>GitHub Trophies</b>
+</h3>
 
-<!-- SPACE SHOOTER SECTION -->
+<p align="center">
+  <img src="https://github-trophy.vercel.app/?username=AtibaYounus&theme=matrix&row=1&column=6" alt="GitHub Trophies">
+</p>
 
+<p align="center">
+<p align="center">
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
 <h3 align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="40" align="absmiddle">
   <b>Contribution shooter</b>
