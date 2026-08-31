@@ -87,9 +87,8 @@
 </p>
 
 <!-- GITHUB TROPHIES SECTION -->
-
 <h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" align="absmiddle">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="40" align="absmiddle">
   <b>GitHub Trophies</b>
 </h3>
 
@@ -98,35 +97,9 @@
 </p>
 
 <p align="center">
-<p align="center">
- 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-<h3 align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="40" align="absmiddle">
-  <b>Contribution shooter</b>
-</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/space-shooter.gif" alt="Space Shooter Game" width="80%">
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- RANDOM DEV QUOTE -->
-<h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif"width="50" align="absmiddle">
-  <b>Dev Quote</b>
-</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
 <!-- FOOTER BANNER -->
 
 <p align="center">
