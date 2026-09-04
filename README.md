@@ -35,15 +35,11 @@
 <h3 align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="50" align="absmiddle">
   <b>About Me</b>
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Demo" width="400"/>
-</p>
+  <
 <p align="center">
   <img src="terminal.gif" alt="Terminal GIF" width="500">
 </p>
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Demo" width="400"/>
-</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
@@ -119,10 +115,13 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&backgroundColor=000000&quoteColor=FFFFFF&authorColor=C3C3C3" alt="Dev Quote" width="80%">
 </p>
-
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Demo" width="400"/>
+</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+  
 <!--FOOTER BANNER -->
 
 <p align="center">
