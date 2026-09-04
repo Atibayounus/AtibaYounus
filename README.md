@@ -35,8 +35,14 @@
 <h3 align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="50" align="absmiddle">
   <b>About Me</b>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Demo" width="400"/>
+</p>
 <p align="center">
   <img src="terminal.gif" alt="Terminal GIF" width="500">
+</p>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Demo" width="400"/>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -92,7 +98,7 @@
 </p>
 <!-- GITHUB STREAK SECTION -->
 <h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="46" height="25" align="absmiddle">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg0OTM1MzcsIm5iZiI6MTc4ODQ5MzIzNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyMTctYmFmNTJhYTYtZmY3MS00MTJkLTk2MDctZGI4ZmViMTc4NzRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTA0VDAzNDAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzMWE2N2RlNzEzZWIyNWU1YjhkNGQwZGFhMTI0MTA2ODhhYzFmOGYwNTk1YzllNWNhNWVjOWEwZDYyMTJmYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.s9BhZz498zkv7f8UMfVt0cA9YhiZsEtyDTAbZSPYKbo" width="46" height="40" align="absmiddle">
   <b>GitHub Streak</b>
 </h3>
 
