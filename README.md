@@ -92,9 +92,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+
 <!-- GITHUB STREAK SECTION -->
 <h3 align="left">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg0OTM1MzcsIm5iZiI6MTc4ODQ5MzIzNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyMTctYmFmNTJhYTYtZmY3MS00MTJkLTk2MDctZGI4ZmViMTc4NzRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTA0VDAzNDAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzMWE2N2RlNzEzZWIyNWU1YjhkNGQwZGFhMTI0MTA2ODhhYzFmOGYwNTk1YzllNWNhNWVjOWEwZDYyMTJmYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.s9BhZz498zkv7f8UMfVt0cA9YhiZsEtyDTAbZSPYKbo" width="46" height="40" align="absmiddle">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJraWpuYTZiZTd2d3RscHJxeDU1djVzdXJjdTJ4eXl4eGhncnZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif" width="46" height="40" align="absmiddle">
   <b>GitHub Streak</b>
 </h3>
 
