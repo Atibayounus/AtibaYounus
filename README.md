@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+
 <!-- GITHUB TROPHIES SECTION -->
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="50" align="absmiddle">
@@ -30,12 +31,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+
 <!-- ABOUT ME SECTION -->
 
 <h3 align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="50" align="absmiddle">
   <b>About Me</b>
-  <
+</h3>
+
 <p align="center">
   <img src="terminal.gif" alt="Terminal GIF" width="500">
 </p>
@@ -89,6 +92,7 @@
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" width="45%" alt="GitHub Stats">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C3C3C3&langs_count=8" width="35%" alt="Most Used Languages">
 </p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
@@ -107,8 +111,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-![Space Shooter](./space-shooter.gif)
+<!-- SPACE SHOOTER SECTION -->
+<h3 align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5laWoxOXg3dXljODJhMXF5a3lnbTN4MmQyaWNudTd5aWlxZnprMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="52" height "28" align="absmiddle">
+  <b>Space Shooter</b>
+</h3>
 
+<p align="center">
+  <img src="./space-shooter.gif" alt="Space Shooter" width="80%">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
 <!-- RANDOM DEV QUOTE -->
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50" align="absmiddle">
@@ -118,13 +132,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&backgroundColor=000000&quoteColor=FFFFFF&authorColor=C3C3C3" alt="Dev Quote" width="80%">
 </p>
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Demo" width="400"/>
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-  
+
 <!--FOOTER BANNER -->
 
 <p align="center">
