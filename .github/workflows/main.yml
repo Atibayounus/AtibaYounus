@@ -2,7 +2,7 @@ name: generate arcade contribution graphs
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -20,7 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: 'pacman,bomberman'
 
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
