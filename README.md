@@ -111,23 +111,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- SPACE SHOOTER SECTION -->
-<h3 align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5laWoxOXg3dXljODJhMXF5a3lnbTN4MmQyaWNudTd5aWlxZnprMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="52" height="28" align="absmiddle">
-  <b>Space Shooter</b>
-</h3>
-
-<p align="center">
-  <img src="./space-shooter.gif" alt="Space Shooter" width="80%">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
 
 <!-- GALAGA SECTION -->
 <h3 align="left">
-  <b>🚀 Galaga</b>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5laWoxOXg3dXljODJhMXF5a3lnbTN4MmQyaWNudTd5aWlxZnprMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="52" height="28" align="absmiddle">
+  <b>Contributions</b> <br><br>
 </h3>
 
 <p align="center">
