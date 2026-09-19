@@ -113,16 +113,35 @@
 
 <!-- SPACE SHOOTER SECTION -->
 <h3 align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5laWoxOXg3dXljODJhMXF5a3lnbTN4MmQyaWNudTd5aWlxZnprMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="52" height "28" align="absmiddle">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5laWoxOXg3dXljODJhMXF5a3lnbTN4MmQyaWNudTd5aWlxZnprMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="52" height="28" align="absmiddle">
   <b>Space Shooter</b>
 </h3>
 
 <p align="center">
   <img src="./space-shooter.gif" alt="Space Shooter" width="80%">
 </p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
+
+<!-- GALAGA SECTION -->
+<h3 align="left">
+  <b>🚀 Galaga</b>
+</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/galaga-contribution-graph.svg" width="90%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
 <!-- RANDOM DEV QUOTE -->
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50" align="absmiddle">
@@ -137,20 +156,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:FFFFFF&height=120&section=footer" width="100%">
-</p>
-<!-- PACMAN SECTION -->
-<h3 align="left">
-  <b>👻 Pac-Man</b>
-</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/output/pacman-contribution-graph.svg" width="90%">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
