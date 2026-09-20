@@ -11,7 +11,7 @@
 <!-- PROFILE BANNER -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/donut.gif" width="700" alt="Atiba Dar's Banner">
+  <img src="https://raw.githubusercontent.com/AtibaYounus/AtibaYounus/main/donut.gif" width="700" alt="AtibaDar's Banner">
 </p>
 
 <p align="center">
