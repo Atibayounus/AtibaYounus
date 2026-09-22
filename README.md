@@ -89,7 +89,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" width="45%" alt="GitHub Stats">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtibaYounus&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" width="45%" alt="GitHub's Stats">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AtibaYounus&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C3C3C3&langs_count=8" width="35%" alt="Most Used Languages">
 </p>
 
