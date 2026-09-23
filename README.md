@@ -104,7 +104,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AtibaYounus&background=000000&border=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C3C3C3&currStreakLabel=FFFFFF&sideLabels=C3C3C3&dates=888888&hide_border=true" width="65%" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=AtibaYounus&theme=just-black&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C3C3C3&currStreakLabel=FFFFFF&sideLabels=C3C3C3&dates=888888" width="65%" alt="GitHub Streak">
 </p>
 
 <p align="center">
