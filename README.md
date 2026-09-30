@@ -21,7 +21,7 @@
 <!-- GITHUB TROPHIES SECTION -->
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="50" align="absmiddle">
-  <b>GitHub Trophies</b>
+  <b>GitHub's Trophies</b>
 </h3>
 
 <p align="center">
