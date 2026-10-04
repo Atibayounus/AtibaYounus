@@ -97,21 +97,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- GITHUB STREAK SECTION -->
-<h3 align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJraWpuYTZiZTd2d3RscHJxeDU1djVzdXJjdTJ4eXl4eGhncnZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif" width="46" height="40" align="absmiddle">
-  <b>GitHub Streak</b>
-</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AtibaYounus&theme=just-black&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C3C3C3&currStreakLabel=FFFFFF&sideLabels=C3C3C3&dates=888888" width="65%" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-
-
 <!-- GALAGA SECTION -->
 <h3 align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5laWoxOXg3dXljODJhMXF5a3lnbTN4MmQyaWNudTd5aWlxZnprMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="52" height="28" align="absmiddle">
