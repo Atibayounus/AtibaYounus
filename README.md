@@ -72,9 +72,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,mongodb&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,mongodb,postgres&theme=dark" alt="Tech Stack">
   <br> <br>
-  <img src="https://skillicons.dev/icons?i=postman,c,cpp,git,github,vscode,vercel,netlify&theme=dark" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=postman,c,cpp,git,github,vscode,vercel,netlify,linux&theme=dark" alt="Tools">
 </p>
 
 <p align="center">
